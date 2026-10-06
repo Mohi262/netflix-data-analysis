@@ -1,0 +1,1 @@
+SELECT * FROM classicmodels.sales_data_for_power_bi;
